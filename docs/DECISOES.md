@@ -236,3 +236,9 @@ Escolhido por contraste das cores de grupo e OLED. Tema claro é opcional futuro
 **Contexto:** pedido de mostrar a porcentagem de pessoas em cada patamar, quando fosse fácil.
 **Decisão:** reaproveitar o modelo de distribuição (ADR-026) para mostrar "Tem mais que ≈ X% dos adultos" nas legendas, na ficha e no Pixel a pixel. Sem busca nem cálculo novos de dados; renda (ex.: quem ganha 1 salário mínimo) não entra, por não misturar com patrimônio.
 **Consequências:** o valor é estimativa (marcado com "≈"); acima de 99,99% aparece "mais de 99,99%".
+
+## ADR-037 — Palco do gráfico maior no celular
+
+**Contexto:** pedido de melhorar o celular para o gráfico principal ocupar a maior parte da tela.
+**Decisão:** abaixo de 600 px de largura: cabeçalho enxuto (título 1 rem, abas de 40 px, pergunta numa linha só), margens laterais de 8 px, palco com altura `100dvh - 128px` (mínimo 480 px), legenda com 26% da altura (22% no Desfile) e nota de apoio em letra menor, no máximo 2 linhas.
+**Consequências:** o gráfico ganha cerca de 60 px de altura e 16 px de largura; a legenda fica menor e rola mais. Ajuste fino fica para o teste no aparelho (docs/CALIBRACAO.md).

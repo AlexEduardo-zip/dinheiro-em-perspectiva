@@ -265,3 +265,19 @@ footer { color: var(--muted); font-size: .75rem; padding: 0 16px 24px; }
 .dst-dotkey { margin: 8px 0 0; font-size: .78rem; color: var(--muted); }
 .dst-dotkey b { color: var(--text); }
 .esc-s-before em, .esc-s-after em { display: block; font-style: normal; font-size: .8125rem; color: var(--text); font-variant-numeric: tabular-nums; }
+
+/* Celular: cabeçalho enxuto e palco do gráfico ocupando quase toda a tela (ADR-037) */
+@media (max-width: 600px) {
+  .top { padding: 6px 8px 0; padding-top: max(6px, env(safe-area-inset-top)); }
+  h1 { font-size: 1rem; margin: 0 0 4px; }
+  nav { gap: 6px; padding-bottom: 4px; }
+  nav button { min-height: 40px; padding: 0 12px; font-size: .875rem; }
+  .question { margin: 2px 0 4px; font-size: .8125rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  main { padding: 0 8px 12px; }
+  footer { padding: 0 8px 12px; }
+  .conc { height: calc(100dvh - 128px); min-height: 480px; gap: 6px; }
+  .conc-legend { flex-basis: 26%; }
+  .par .conc-legend { flex-basis: 22%; }
+  .conc-stage { border-radius: 8px; }
+  .conc .viz-note { font-size: .6875rem; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+}
