@@ -1,0 +1,9 @@
+[
+  {"id":"bilionarios-qtd","label":"Bilionários no Brasil","value":255,"unit":"pessoas","year":2026,"sourceId":"forbes-br-2026","caveat":"Eram 300 em 2025."},
+  {"id":"milionarios-qtd","label":"Milionários (em dólar)","value":386000,"unit":"pessoas","year":2026,"sourceId":"ubs-2026","caveat":"A edição anterior citava 433 mil; os números mudam entre edições."},
+  {"id":"bilionarios-pib","label":"Fortuna dos bilionários / PIB","value":14.6,"unit":"percentual","year":2026,"sourceId":"forbes-br-2026"},
+  {"id":"top1-share","label":"Fatia do 1% mais rico na riqueza nacional","value":49.3,"unit":"percentual","year":2021,"sourceId":"credit-suisse-2021","caveat":"Dado antigo (Credit Suisse, 2021)."},
+  {"id":"salario-minimo","label":"Salário mínimo","value":1621,"unit":"brl","year":2026,"sourceId":"ibge-pnad","caveat":"Valor usado na nossa fonte de dados."},
+  {"id":"declaracoes-qtd","label":"Pessoas que declararam Imposto de Renda","value":44498000,"unit":"pessoas","year":2026,"sourceId":"receita-irpf-2026"},
+  {"id":"adultos-18","label":"Adultos (18 anos ou mais) no Brasil","value":154346198,"unit":"pessoas","year":2022,"sourceId":"ibge-censo-2022","caveat":"Soma das idades de 18 a 100+ do Censo 2022. O UBS pode definir adulto de outro jeito, então a conta é aproximada."}
+]

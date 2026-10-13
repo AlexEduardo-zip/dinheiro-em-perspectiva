@@ -1,0 +1,607 @@
+[
+  {
+    "id": "saverin",
+    "label": "Eduardo Saverin",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 162900000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "mdSection": "2",
+    "summary": "Cofundador do Facebook.",
+    "holdings": [
+      {
+        "company": "Meta (Facebook)",
+        "listed": true,
+        "ticker": "META",
+        "note": "A fortuna vem de ações da empresa, vendidas na bolsa dos EUA"
+      }
+    ]
+  },
+  {
+    "id": "safra",
+    "label": "Vicky Safra e família",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "familia",
+    "valueBRL": 130600000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "mdSection": "2",
+    "summary": "Família dona do Banco Safra.",
+    "holdings": [
+      {
+        "company": "Banco Safra",
+        "listed": false,
+        "note": "Não é aberto na bolsa: não tem preço diário"
+      }
+    ]
+  },
+  {
+    "id": "lemann",
+    "label": "Jorge Paulo Lemann",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 103500000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "mdSection": "2",
+    "summary": "Sócio da AB InBev e da 3G Capital.",
+    "holdings": [
+      {
+        "company": "AB InBev",
+        "note": "Cervejaria mundial"
+      },
+      {
+        "company": "3G Capital",
+        "note": "Gestora de investimentos"
+      }
+    ]
+  },
+  {
+    "id": "esteves",
+    "label": "André Esteves",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 66100000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "caveat": "Ações de banco mudam de preço rápido: a fortuna subiu ~US$ 2,7 bi em um dia em out/2026.",
+    "mdSection": "2",
+    "summary": "Sócio do banco BTG Pactual.",
+    "holdings": [
+      {
+        "company": "BTG Pactual",
+        "stake": "29,5% (jan/2024)",
+        "ticker": "BPAC11",
+        "listed": true,
+        "note": "Cotas de sócio só podem ser vendidas pelo valor contábil, ~50% do preço de mercado"
+      }
+    ]
+  },
+  {
+    "id": "fm-salles",
+    "label": "Fernando Moreira Salles",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 50300000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "mdSection": "2",
+    "summary": "Herdeiro do banco Itaú Unibanco.",
+    "holdings": [
+      {
+        "company": "Itaú Unibanco",
+        "stake": "13% (2022)",
+        "ticker": "ITUB4",
+        "listed": true
+      },
+      {
+        "company": "Itaúsa",
+        "ticker": "ITSA4",
+        "listed": true,
+        "note": "Empresa que controla ~37,5% do Itaú; a família Moreira Salles é acionista"
+      },
+      {
+        "company": "CBMM",
+        "note": "Origem da fortuna, segundo a Forbes"
+      }
+    ]
+  },
+  {
+    "id": "p-salles",
+    "label": "Pedro Moreira Salles",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 46600000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "mdSection": "2",
+    "summary": "Herdeiro do banco Itaú Unibanco.",
+    "holdings": [
+      {
+        "company": "Itaú Unibanco",
+        "stake": "11,6% (2022)",
+        "ticker": "ITUB4",
+        "listed": true
+      },
+      {
+        "company": "Itaúsa",
+        "ticker": "ITSA4",
+        "listed": true,
+        "note": "Empresa que controla ~37,5% do Itaú; a família Moreira Salles é acionista"
+      },
+      {
+        "company": "CBMM",
+        "note": "Origem da fortuna, segundo a Forbes"
+      }
+    ]
+  },
+  {
+    "id": "top10-piso",
+    "label": "10º maior bilionário",
+    "group": "topo",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 35100000000,
+    "rangeBRL": [
+      35100000000,
+      38800000000
+    ],
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "caveat": "A fonte só dá essa faixa, sem nomes.",
+    "mdSection": "2",
+    "summary": "Do 7º ao 10º lugar: de R$ 35,1 bi a R$ 38,8 bi."
+  },
+  {
+    "id": "bilionarios-media",
+    "label": "Bilionário (média dos 255)",
+    "group": "topo",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 7300000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "caveat": "Cálculo nosso: R$ 1,86 tri ÷ 255.",
+    "mdSection": "2",
+    "summary": "R$ 1,86 tri dividido por 255 bilionários."
+  },
+  {
+    "id": "bilionarios-total",
+    "label": "Todos os 255 bilionários",
+    "group": "topo",
+    "kind": "aggregate",
+    "measure": "wealth",
+    "unit": "grupo",
+    "valueBRL": 1860000000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "caveat": "≈ 14,6% do PIB.",
+    "mdSection": "2"
+  },
+  {
+    "id": "top10-total",
+    "label": "Os 10 maiores bilionários juntos",
+    "group": "topo",
+    "kind": "aggregate",
+    "measure": "wealth",
+    "unit": "grupo",
+    "valueBRL": 704500000000,
+    "year": 2026,
+    "sourceId": "forbes-br-2026",
+    "confidence": "alta",
+    "caveat": "Fonte dá R$ 704 a 705 bi (38% do total).",
+    "mdSection": "2"
+  },
+  {
+    "id": "moll",
+    "label": "Jorge Moll (Rede D'Or)",
+    "group": "acionistas",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 9400000000,
+    "year": 2024,
+    "sourceId": "economatica-b3",
+    "confidence": "media",
+    "caveat": "Conta só as ações acima de 5% de uma empresa; a data do levantamento não é certa.",
+    "mdSection": "3.1",
+    "summary": "Dono de 16% da Rede D'Or.",
+    "holdings": [
+      {
+        "company": "Rede D'Or",
+        "stake": "16%",
+        "ticker": "RDOR3",
+        "listed": true
+      }
+    ]
+  },
+  {
+    "id": "mateus",
+    "label": "Ilson Mateus (Grupo Mateus)",
+    "group": "acionistas",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 6100000000,
+    "year": 2024,
+    "sourceId": "economatica-b3",
+    "confidence": "media",
+    "caveat": "Conta só as ações acima de 5% de uma empresa; a data do levantamento não é certa.",
+    "mdSection": "3.1",
+    "summary": "Dono de 41,7% do Grupo Mateus.",
+    "holdings": [
+      {
+        "company": "Grupo Mateus",
+        "stake": "41,7%",
+        "ticker": "GMAT3",
+        "listed": true
+      }
+    ]
+  },
+  {
+    "id": "barsi",
+    "label": "Luiz Barsi (investidor)",
+    "group": "acionistas",
+    "kind": "individual",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 4000000000,
+    "year": 2024,
+    "sourceId": "economatica-b3",
+    "confidence": "media",
+    "caveat": "Estimativa: cerca de R$ 4 bi.",
+    "mdSection": "3.1",
+    "summary": "Investidor da bolsa."
+  },
+  {
+    "id": "private-conta",
+    "label": "Investidor rico (média)",
+    "group": "alta-renda",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "conta",
+    "valueBRL": 12400000,
+    "year": 2022,
+    "sourceId": "anbima-private",
+    "confidence": "media",
+    "caveat": "É média por conta, não por pessoa; dado de 2022.",
+    "mdSection": "6",
+    "summary": "Média por conta de clientes ricos de bancos (Anbima, 2022)."
+  },
+  {
+    "id": "cartorio",
+    "label": "Dono de cartório",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 3280000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra. Uma versão anterior da notícia dava R$ 2,8 mi.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "judiciario",
+    "label": "Juiz e afins (Judiciário)",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 2930000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "mp",
+    "label": "Promotor e procurador (MP)",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 2900000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "diplomata",
+    "label": "Diplomata",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 2520000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "atleta",
+    "label": "Atleta",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1710000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "dirigente-industria",
+    "label": "Diretor de indústria",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1660000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "agro",
+    "label": "Produtor rural",
+    "group": "ocupacoes",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1580000,
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media-alta",
+    "caveat": "Só inclui quem declara Imposto de Renda, e os bens costumam estar pelo valor de compra.",
+    "mdSection": "5",
+    "summary": "Patrimônio médio declarado no Imposto de Renda."
+  },
+  {
+    "id": "familia-media",
+    "label": "Família média",
+    "group": "geral",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "familia",
+    "valueBRL": 570500,
+    "year": 2025,
+    "sourceId": "forbes-life-familias",
+    "confidence": "media",
+    "caveat": "É por família, não por adulto.",
+    "mdSection": "8",
+    "summary": "Patrimônio médio de uma família."
+  },
+  {
+    "id": "declarante-medio",
+    "label": "Quem declara IR (média)",
+    "group": "geral",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 409000,
+    "rangeBRL": [
+      326900,
+      409000
+    ],
+    "year": 2025,
+    "sourceId": "receita-irpf-2026",
+    "confidence": "media",
+    "caveat": "Só vale para quem declara. Usamos R$ 409 mil; uma versão anterior da notícia dava R$ 326,9 mil.",
+    "mdSection": "5",
+    "summary": "Média de quem declarou Imposto de Renda em 2026."
+  },
+  {
+    "id": "adulto-medio",
+    "label": "Adulto médio",
+    "group": "geral",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "adulto",
+    "valueBRL": 150000,
+    "rangeBRL": [
+      150000,
+      170000
+    ],
+    "year": 2025,
+    "sourceId": "ubs-gwr",
+    "confidence": "media",
+    "caveat": "Vale para todos os adultos; não compare direto com quem declara IR.",
+    "mdSection": "8",
+    "summary": "Média de todos os adultos."
+  },
+  {
+    "id": "adulto-mediano",
+    "label": "Adulto do meio",
+    "group": "geral",
+    "kind": "median",
+    "measure": "wealth",
+    "unit": "adulto",
+    "valueBRL": 22500,
+    "rangeBRL": [
+      20000,
+      25000
+    ],
+    "year": 2025,
+    "sourceId": "ubs-gwr",
+    "confidence": "media",
+    "caveat": "Valor do meio entre R$ 20 mil e R$ 25 mil.",
+    "mdSection": "8",
+    "summary": "A pessoa do meio da fila: metade tem menos que isso."
+  },
+  {
+    "id": "vereador",
+    "label": "Vereador",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 360480,
+    "year": 2024,
+    "sourceId": "tse-2024",
+    "confidence": "media",
+    "caveat": "Média de 58153 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 92 mil; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 92 mil)."
+  },
+  {
+    "id": "vice-prefeito",
+    "label": "Vice-prefeito",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1134284,
+    "year": 2024,
+    "sourceId": "tse-2024",
+    "confidence": "media",
+    "caveat": "Média de 5529 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 250 mil; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 250 mil)."
+  },
+  {
+    "id": "prefeito",
+    "label": "Prefeito",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1754485,
+    "year": 2024,
+    "sourceId": "tse-2024",
+    "confidence": "media",
+    "caveat": "Média de 5529 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 460 mil; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 460 mil)."
+  },
+  {
+    "id": "deputado-distrital",
+    "label": "Deputado distrital",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 1179280,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 24 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 475 mil; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 475 mil)."
+  },
+  {
+    "id": "deputado-estadual",
+    "label": "Deputado estadual",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 2109948,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 1035 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 780 mil; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 780 mil)."
+  },
+  {
+    "id": "deputado-federal",
+    "label": "Deputado federal",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 3059896,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 513 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 1,02 mi; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 1,02 mi)."
+  },
+  {
+    "id": "senador",
+    "label": "Senador (eleitos em 2022)",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 5238189,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 27 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 1,15 mi; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 1,15 mi)."
+  },
+  {
+    "id": "governador",
+    "label": "Governador",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 16342072,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 27 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 2,03 mi; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 2,03 mi)."
+  },
+  {
+    "id": "vice-governador",
+    "label": "Vice-governador",
+    "group": "politicos",
+    "kind": "average",
+    "measure": "wealth",
+    "unit": "pessoa",
+    "valueBRL": 16256397,
+    "year": 2022,
+    "sourceId": "tse-2022",
+    "confidence": "media",
+    "caveat": "Média de 27 eleitos, calculada pelo projeto com os bens que cada um declarou ao TSE (em geral pelo valor de compra). Mediana: R$ 1,29 mi; poucos muito ricos puxam a média para cima.",
+    "mdSection": "-",
+    "summary": "Patrimônio médio declarado dos eleitos (mediana R$ 1,29 mi)."
+  }
+]

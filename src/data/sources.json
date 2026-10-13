@@ -1,0 +1,80 @@
+[
+  {
+    "id": "forbes-br-2026",
+    "name": "Forbes Brasil, bilionários 2026",
+    "url": "https://forbes.com.br/forbes-money/2026/08/os-10-maiores-bilionarios-do-brasil-em-2026/",
+    "reference": "base 30/06/2026"
+  },
+  {
+    "id": "economatica-b3",
+    "name": "Economatica (maiores investidores pessoa física da bolsa)",
+    "url": "https://www.moneytimes.com.br/perdeu-o-trono-quem-sao-os-maiores-investidores-da-bolsa-que-desbancam-barsi/",
+    "reference": "data não confirmada (provável 2023-2024)"
+  },
+  {
+    "id": "anbima-private",
+    "name": "Anbima (clientes ricos de bancos)",
+    "url": "https://renovainvest.com.br/?p=58160",
+    "reference": "2022"
+  },
+  {
+    "id": "receita-irpf-2026",
+    "name": "Receita Federal, Imposto de Renda 2026",
+    "url": "https://fenacon.org.br/noticias/titulares-de-cartorio-lideram-ranking-de-patrimonio-no-ir-2026/",
+    "reference": "ano-base 2025"
+  },
+  {
+    "id": "ubs-gwr",
+    "name": "UBS Global Wealth Report (citado em matérias)",
+    "url": "https://www.abcdacomunicacao.com.br/mais-da-metade-dos-brasileiros-nao-guarda-dinheiro-e-tem-menos-de-r-25-mil-de-patrimonio-aponta-estudo-global/",
+    "reference": "edições 2025-2026"
+  },
+  {
+    "id": "ubs-2026",
+    "name": "UBS Global Wealth Report 2026",
+    "url": "https://investnews.com.br/investimentos/brasil-25-milionarios-por-dia-2025/amp/",
+    "reference": "30/06/2026"
+  },
+  {
+    "id": "forbes-life-familias",
+    "name": "Forbes Life, patrimônio das famílias",
+    "url": "https://forbes.com.br/forbes-life/2025/07/como-o-mundo-enxerga-a-riqueza-no-brasil/",
+    "reference": "2025"
+  },
+  {
+    "id": "credit-suisse-2021",
+    "name": "Credit Suisse via Canaltech",
+    "url": "https://canaltech.com.br/mercado/quantos-milionarios-existem-no-brasil-225839/",
+    "reference": "2021"
+  },
+  {
+    "id": "ibge-pnad",
+    "name": "IBGE, PNAD Contínua",
+    "url": "https://diariodocomercio.com.br/economia/rendimento-trabalhador-recorde-ibge/",
+    "reference": "1º tri 2026"
+  },
+  {
+    "id": "bcb-cartilha-2a-familia",
+    "name": "Banco Central (cartilha das notas do Real)",
+    "url": "https://www.bcb.gov.br/content/cedulasemoedas/cedulas_moedas_docs/material_apoio/cartilha_segunda_familia_real.pdf",
+    "reference": "cédula de R$ 100: 156 mm × 70 mm, azul-turquesa"
+  },
+  {
+    "id": "ibge-censo-2022",
+    "name": "IBGE, Censo 2022 (população por idade)",
+    "url": "https://sidra.ibge.gov.br/tabela/9514",
+    "reference": "Censo 2022"
+  },
+  {
+    "id": "tse-2022",
+    "name": "TSE, dados abertos: candidatos e bens declarados, eleições gerais 2022 (cálculo do projeto)",
+    "url": "https://dadosabertos.tse.jus.br/dataset/bens-candidato-2022",
+    "reference": "eleições de outubro de 2022; eleitos, sem presidente e vice, sem suplentes"
+  },
+  {
+    "id": "tse-2024",
+    "name": "TSE, dados abertos: candidatos e bens declarados, eleições municipais 2024 (cálculo do projeto)",
+    "url": "https://dadosabertos.tse.jus.br/dataset/bens-candidato-2024",
+    "reference": "eleições de outubro de 2024; eleitos"
+  }
+]
